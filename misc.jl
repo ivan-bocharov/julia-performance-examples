@@ -1,0 +1,3 @@
+@simd
+@inbounds
+@fastmath
